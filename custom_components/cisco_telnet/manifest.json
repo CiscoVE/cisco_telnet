@@ -1,0 +1,13 @@
+{
+  "codeowners": ["@awolder"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/CiscoVE/cisco_telnet",
+  "domain": "cisco_telnet",
+  "iot_class": "calculated",
+  "name": "cisco_telnet",
+  "requirements": [
+    "telnet2==1.1.4"
+  ],
+  "version": "1.0.0"
+}

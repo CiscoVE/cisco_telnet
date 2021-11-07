@@ -1,0 +1,5 @@
+{
+  "name": "cisco_telnet",
+  "render_readme": true,
+  "iot_class": "calculated"
+}
